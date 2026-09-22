@@ -230,4 +230,4 @@ This repository serves as the official landing page for ShowMyPC. The software i
 **Get the most recent version of ShowMyPC today!**
 
 ---
-**Last updated:** 2026-09-22 14:21:32 UTC
+**Last updated:** 2026-09-22 18:31:00 UTC
